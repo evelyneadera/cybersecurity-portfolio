@@ -12,7 +12,8 @@ Cybersecurity Misconceptions
 4. It is an IT department responsibility- Cybersecurity is a shared responsibility across all departments.
 5. I have nothing of value to attract cybercriminals- Everyone is a potential target regardless of the perceived value of their assets.
 
-   Impact of Cybersecurity on Businesses 
+   Impact of Cybersecurity on Businesses
+   
 Cybersecurity threats include:
 a) Phishing
 b) malware
@@ -33,30 +34,30 @@ d) Denial-of-service (DOS) attack, etc.
          5. Helps mitigate financial loss
             
   Cybersecurity Frameworks
-NIST Framework- National Institute of Standards and Technology helps organizations manage and reduce cybersecurity risks using 5 key functions:
+NIST Framework- The National Institute of Standards and Technology helps organizations manage and reduce cybersecurity risks using 5 key functions:
  1. Indentify- understand assets and prioritize resources.
  2. Protect- implemenr measures for asset protection.
  3. Detect- continuously monitor for security events.
- 4. Respod- promptly address and mitigate incidents.
- 5. Recover- restore systems, prevent future incidents.
+ 4. Respond- promptly address and mitigate incidents.
+ 5. Recover- restore systems, and prevent future incidents.
 
  Core Principles of Cybersecurity
 CIA Triad
-  Confidentialityy- protecting sensitive data from unauthorized access.
-  Integrity- ensures data accuracy and trustworthy.
-  availabilty- Ensures accessibility of data when needed.
+  Confidentiality- protecting sensitive data from unauthorized access.
+  Integrity- ensures data accuracy and trustworthiness.
+  Availability- Ensures accessibility of data when needed.
 Defence in Depth Approach
- A layered security approach where multiple defensive mechanisms are places across various levels.
+ A layered security approach where multiple defensive mechanisms are placed across various levels.
 
 Cybersecurity Terminologies
 1. Vulnerability- a weeakness that can be exploited.
 2. Risk- the potential for loss or damage.
-3. threat- a potential cause for unwanted impact to a system or data.
+3. threat- a potential cause for unwanted impact on a system or data.
 4. Exploit- to take advantage of a vulnerability.
 5. Firewall- a network security system that monitors and filters unwanted traffic.
 6. Hackers- white hat, black hat, and gray hat hackers
 
-   Key Takeawys
+   Key Takeaways
    - Cybersecurity is essential for every organization.
    - Misconceptions can lead to severe exposure and risk.
    - Clear knowledge of common terminologies is crucial for communication and analysis in cybersecurity.
